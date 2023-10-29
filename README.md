@@ -1,4 +1,4 @@
-<h1 align="center">Hello, to my Github World. Divine Domokuma her÷</h1> 
+<h1 align="center">Hello, to my Github World. Divine Domokuma here</h1> 
  <h3 align="center">A Web Developer and Frontend Engineer. I build technology tools, experiences, and solutions for businesses, organizations and individuals.</h3> 
   
  - 💬 Ask me about **react, Rest Api, Frontend Development,** 
